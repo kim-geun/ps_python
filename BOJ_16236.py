@@ -60,5 +60,4 @@ def move_shark():
         ans += dist
     return ans
 
-
 print(move_shark())
